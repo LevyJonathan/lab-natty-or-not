@@ -34,7 +34,7 @@ ChatGPT-3.5
 Apenas utilizei o conteúdo original para fazer a tradução no ChatGPT, e fiz verificações de erros, para que ficasse condizente com a língua portuguesa.
 
 ## 🚀 Resultados
-Link para o E-BOOK:
+Link para o E-BOOK: https://github.com/LevyJonathan/lab-natty-or-not/blob/main/exemplos/AllTomorrows-ptbr.pdf
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA. -> A tecnológia generativa vem a cada dia para nos auxiliar em projetos.
